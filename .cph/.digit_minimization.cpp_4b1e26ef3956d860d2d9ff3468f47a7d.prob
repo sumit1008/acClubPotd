@@ -1,0 +1,1 @@
+{"name":"Local: digit_minimization","url":"c:\\Users\\sumit\\OneDrive\\Desktop\\cpp\\AcclubPotd\\digit_minimization.cpp","tests":[{"id":1704731251082,"input":"3\n12\n132\n487456398\n","output":"2\n1\n3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\sumit\\OneDrive\\Desktop\\cpp\\AcclubPotd\\digit_minimization.cpp","group":"local","local":true}
